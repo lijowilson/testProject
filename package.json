@@ -1,0 +1,11 @@
+{
+  "name": "testproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mask-js": "~1.0.0"
+  }
+}
